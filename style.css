@@ -1,0 +1,6 @@
+body{
+    min-height: 100vh !important;
+    font-family: "Poppins", sans-serif !important;
+    user-select: none;
+    background-color: #f2f9fe !important;
+}
