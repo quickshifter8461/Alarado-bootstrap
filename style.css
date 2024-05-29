@@ -4,3 +4,7 @@ body{
     user-select: none;
     background-color: #f2f9fe !important;
 }
+
+span{
+    letter-spacing: 2px;
+}
